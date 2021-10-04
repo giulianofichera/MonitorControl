@@ -50,13 +50,13 @@
 "Hardware (DDC)" = "Hardware (DDC)";
 
 /* Shown in the alert dialog */
-"Incompatible previous version" = "Incompatible previous version";
+"Incompatible previous version" = "Versión anterior incompatible";
 
 /* Intel designation (shown after the version number in Preferences) */
 "Intel" = "Intel";
 
 /* Shown in the main prefs window */
-"Keyboard" = "Keyboard";
+"Keyboard" = "Teclado";
 
 /* Shown in the alert dialog */
 "No" = "No";
@@ -68,22 +68,22 @@
 "Other Display" = "Otras pantallas";
 
 /* Shown in the alert dialog */
-"Preferences for an incompatible previous app version detected. Default preferences are reloaded." = "Preferences for an incompatible previous app version detected. Default preferences are reloaded.";
+"Preferences for an incompatible previous app version detected. Default preferences are reloaded." = "Se detectaron preferencias incompatibles de una versión anterior de la aplicación. Se cargaron las preferencias predeterminadas.";
 
 /* Shown in menu */
-"Preferences..." = "Preferences...";
+"Preferences..." = "Preferencias...";
 
 /* Shown in menu */
-"Quit" = "Quit";
+"Quit" = "Salir";
 
 /* Shown in the alert dialog */
 "Reset Preferences?" = "¿Restablecer las preferencias?";
 
 /* Shown in the alert dialog */
-"Safe Mode Activated" = "Safe Mode Activated";
+"Safe Mode Activated" = "Modo Seguro Activado";
 
 /* Shown in the alert dialog */
-"Shift was pressed during launch. MonitorControl started in safe mode. Default preferences are reloaded, DDC read is blocked." = "Shift was pressed during launch. MonitorControl started in safe mode. Default preferences are reloaded, DDC read is blocked.";
+"Shift was pressed during launch. MonitorControl started in safe mode. Default preferences are reloaded, DDC read is blocked." = "Se presionó Shift durante el lanzamiento. MonitorControl se inició en modo seguro. Se recargaron las preferencias predeterminadas, se bloqueó la lectura de DDC.";
 
 /* Shown in the alert dialog */
 "Shortcuts not available" = "Atajos no disponibles";
@@ -92,28 +92,28 @@
 "Software (gamma)" = "Software (gamma)";
 
 /* Shown in the Display Preferences */
-"Software (gamma, forced)" = "Software (gamma, forced)";
+"Software (gamma, forced)" = "Software (gamma, forzado)";
 
 /* Shown in the Display Preferences */
-"Software (shade)" = "Software (shade)";
+"Software (shade)" = "Software (sombreado)";
 
 /* Shown in the Display Preferences */
-"This display allows for software brightness control via gammatable manipulation as it does not support hardware control. Reasons for this might be using the HDMI port of a Mac mini (which blocks hardware DDC control) or having a blacklisted display." = "This display allows for software brightness control via gammatable manipulation as it does not support hardware control. Reasons for this might be using the HDMI port of a Mac mini (which blocks hardware DDC control) or having a blacklisted display.";
+"This display allows for software brightness control via gammatable manipulation as it does not support hardware control. Reasons for this might be using the HDMI port of a Mac mini (which blocks hardware DDC control) or having a blacklisted display." = "Esta pantalla permite el control del brillo por software a través de la manipulación gammatable, ya que no admite el control por hardware. Las razones de esto podrían ser el uso del puerto HDMI de una Mac mini (que bloquea el control DDC de hardware) o tener una pantalla en la lista negra.";
 
 /* Shown in the Display Preferences */
-"This display has an unspecified control status." = "This display has an unspecified control status.";
+"This display has an unspecified control status." = "Esta pantalla tiene un estado de control no especificado.";
 
 /* Shown in the Display Preferences */
-"This display is reported to support hardware DDC control but the current settings allow for software control only." = "This display is reported to support hardware DDC control but the current settings allow for software control only.";
+"This display is reported to support hardware DDC control but the current settings allow for software control only." = "Esta pantalla informa que es compatible con el control de DDC por hardware, pero la configuración actual solo permite el control por software.";
 
 /* Shown in the Display Preferences */
-"This display is reported to support hardware DDC control. If you encounter issues, you can disable hardware DDC control to force software control." = "This display is reported to support hardware DDC control. If you encounter issues, you can disable hardware DDC control to force software control.";
+"This display is reported to support hardware DDC control. If you encounter issues, you can disable hardware DDC control to force software control." = "Esta pantalla informa que es compatible con el control DDC de hardware. Si encuentra problemas, puede deshabilitar el control DDC de hardware para forzar el control del software.";
 
 /* Shown in the Display Preferences */
-"This display supports native Apple brightness protocol. This allows macOS to control this display without MonitorControl as well." = "This display supports native Apple brightness protocol. This allows macOS to control this display without MonitorControl as well.";
+"This display supports native Apple brightness protocol. This allows macOS to control this display without MonitorControl as well." = "Esta pantalla es compatible con el protocolo de brillo nativo de Apple. Esto permite que macOS también controle esta pantalla sin MonitorControl.";
 
 /* Shown in the Display Preferences */
-"This is a virtual display (examples: AirPlay, Sidecar, display connected via a DisplayLink Dock or similar) which does not allow hardware or software gammatable control. Shading is used as a substitute but only in non-mirror scenarios. Mouse cursor will be unaffected and artifacts may appear when entering/leaving full screen mode." = "This is a virtual display (examples: AirPlay, Sidecar, display connected via a DisplayLink Dock or similar) which does not allow hardware or software gammatable control. Shading is used as a substitute but only in non-mirror scenarios. Mouse cursor will be unaffected and artifacts may appear when entering/leaving full screen mode.";
+"This is a virtual display (examples: AirPlay, Sidecar, display connected via a DisplayLink Dock or similar) which does not allow hardware or software gammatable control. Shading is used as a substitute but only in non-mirror scenarios. Mouse cursor will be unaffected and artifacts may appear when entering/leaving full screen mode." = "Esta es una pantalla virtual (ejemplos: AirPlay, Sidecar, pantalla conectada a través de un dock DisplayLink o similar) que no permite el control de gamma por hardware o software. El sombreado se utiliza como sustituto, pero solo en escenarios sin pantalla espejada. El cursor del mouse no se verá afectado y pueden aparecer artefactos al ingresar / salir del modo de pantalla completa.";
 
 /* Unknown display name */
 "Unknown" = "Desconocido";
